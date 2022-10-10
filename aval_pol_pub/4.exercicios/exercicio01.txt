@@ -1,0 +1,31 @@
+#################################
+#
+# Avaliação de Política Pública
+#
+#################################
+
+1) A partir do script atividade01.R, calcule o teste t de média para expectariva de vida = 59 anos. O que podemos afirmar?
+
+2) Teste para o continente Americano se a expectativa de vida = 60
+
+3) Comparando dois grupo (Europa e Asia), podemos afirmar que são diferentes, em média, com relação à expectativa de vida?
+
+4) Faça o teste comparando todos os continentes (Europa x Africa, Africa x Americas, Oceania x Asia, etc etc)
+
+5) O que podemos dizer sobre a expectativa de vida nos distintos continentes?
+
+6) Teste a relação entre países: expectativa de vida na Australia é semelhante, na média, à Alemanha? Porque?
+
+7) Brasil e Alemanha são semelhantes? Justifique com base no teste t.
+
+8) Faço o mesmo teste considerando, agora, o PIB per capita: Brasil é semelhante ao Chile? Justifique.
+
+9) Agora, no script atividade02.R, exporte os 7 primeiros gráficos para a pasta 3.graficos
+
+10) O que podemos afirmar sobre a expectativa de vida por continente? (busque informações sobre graficos boxplots)
+
+11) Com base nas regressões (reg01,reg02,reg03) o que podemos falar sobre os resultados? Justifique.
+
+12) Filtre a base de dados e considere apenas o ano de 1952. Faça uma regressão considerando gdpPercap como variavel dependente e continent como independente. O que podemos afirmar?
+
+13) Exporte este gráfica da regressão, adicionando título e informando, no subtitulo, qual o ano de análise.
